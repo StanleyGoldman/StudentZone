@@ -17,6 +17,7 @@ _Underline this **bold that**_
 [Visit **GitHub**](http://github.com)
 
 ![Tigers rule!](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
+![Lions rule!](https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Lion_waiting_in_Namibia.jpg/1200px-Lion_waiting_in_Namibia.jpg)
 
 ```
 public static void main(){
